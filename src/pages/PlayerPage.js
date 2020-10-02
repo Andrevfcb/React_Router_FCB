@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Player from '../Player'
+import Player from '../Components/Player'
 
 import img1 from '../images/players/Marc_Andre_Ter_Stegen.jpg'
 import img2 from '../images/players/Neto.jpg'

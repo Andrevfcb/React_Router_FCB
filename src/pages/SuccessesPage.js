@@ -1,5 +1,5 @@
 import React from 'react';
-import Success from '../Success';
+import Success from '../Components/Success';
 import img1 from '../images/cups/Champions-League.png';
 import img2 from '../images/cups/Fifa-Club-World-Cup.png';
 import img3 from '../images/cups/pucharzdobywcowpucharow.jpg';

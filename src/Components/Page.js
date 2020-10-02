@@ -1,13 +1,13 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
-import HomePage from './pages/HomePage';
-import HistoryPage from './pages/HistoryPage';
-import SuccessesPage from './pages/SuccessesPage';
-import PlayerPage from './pages/PlayerPage';
-import TeamPage from './pages/TeamPage';
-import ContactPage from './pages/ContactPage';
-import AdminPage from './pages/AdminPage';
-import LoginPage from './pages/LoginPage';
+import HomePage from '../pages/HomePage';
+import HistoryPage from '../pages/HistoryPage';
+import SuccessesPage from '../pages/SuccessesPage';
+import PlayerPage from '../pages/PlayerPage';
+import TeamPage from '../pages/TeamPage';
+import ContactPage from '../pages/ContactPage';
+import AdminPage from '../pages/AdminPage';
+import LoginPage from '../pages/LoginPage';
 
 const Page = () => {
   return (
