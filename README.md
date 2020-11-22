@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can check it from the link added below
-https://andrevfcb.github.io/React_Router_FCB/
+You can check it on the link https://andrevfcb.github.io/React_Router_FCB/
 
 ## Available Scripts
 
